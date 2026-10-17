@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-rose-ink",
-  "version": "1.1.0",
-  "description": "Rose Ink: sera / taupe / rose / cyan",
+  "version": "1.1.1",
+  "description": "A warm taupe theme with rose accents, cyan charts, and 14px text; supports light and dark modes.",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-rose-ink",
   "homepage": "https://ui.shadcn.com/create",
@@ -141,12 +141,12 @@
         "default_locale": "en",
         "translations": {
           "en": {
-            "display_name": "Rose Ink",
-            "description": "Rose Ink: sera / taupe / rose / cyan"
+            "display_name": "Rose Ink Rose Theme",
+            "description": "A warm taupe theme with rose accents, cyan charts, and 14px text; supports light and dark modes."
           },
           "zh": {
-            "display_name": "Rose Ink",
-            "description": "Rose Ink 主题：sera / taupe / rose / cyan"
+            "display_name": "Rose Ink 玫瑰主题",
+            "description": "暖灰褐底色，搭配玫瑰强调色、青色图表和 14px 字号，支持浅色与深色模式。"
           }
         }
       },
