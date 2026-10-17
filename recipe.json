@@ -1,0 +1,15 @@
+{
+  "title": "Sera",
+  "description": "Lucide / Noto Sans + Playfair Display",
+  "style": "sera",
+  "baseColor": "taupe",
+  "theme": "rose",
+  "chartColor": "cyan",
+  "iconLibrary": "lucide",
+  "font": "noto-sans",
+  "fontHeading": "playfair-display",
+  "menuAccent": "subtle",
+  "menuColor": "inverted-translucent",
+  "radius": "default",
+  "rtl": false
+}
